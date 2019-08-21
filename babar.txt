@@ -8,3 +8,5 @@ alias npp='notepad++.exe -multiInst -nosession'
 Mac OS X: TextMate 2 On the Mac, TextMate 2 is a freely available text editor that work a bit better than TextEdit.
 
 feeling good
+
+again editing
