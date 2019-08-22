@@ -1,3 +1,4 @@
+After rebasing,
 This is example of rebase.set for rebase
 sultan
 Babar
